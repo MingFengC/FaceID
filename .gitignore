@@ -1,1 +1,5 @@
 faceid
+.DS_Store
+data
+*.pdf
+*.tgz
