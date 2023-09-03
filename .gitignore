@@ -3,3 +3,6 @@ faceid
 data
 *.pdf
 *.tgz
+application_data
+training_checkpoints
+*.h5
